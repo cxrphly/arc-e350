@@ -12,6 +12,8 @@ Este projeto foi desenvolvido com o intuito de dar um novo propósito ao meu pri
 - [Sistema Operacional e Configurações Básicas](#sistema-operacional-e-configurações-básicas)
   - [Batocera](#batocera)
 - [Construção do Arcade](#construção-do-arcade)
+- [Recomendações](#💡-recomendações)
+- [Considerações Finais](#📌-considerações-finais)
 
 ---
 
@@ -23,11 +25,16 @@ Este projeto foi desenvolvido com o intuito de dar um novo propósito ao meu pri
 - Processador AMD Dual Core E-350
 - SSD 120GB
 
+![Placa-mãe](img/placa-mae.jpg)
+
 ### PCB800099-V9 (Controlador LVDS / TTL)
 
 - Tela LCD de 8" (retirada de um tablet antigo)
 - Conexões compatíveis com a tela e alimentação
 - Seleção de firmware para diferentes resoluções
+
+![Controladora](img/controladora.jpg)  
+![Combinações de Firmware](img/combinacoes.png)
 
 ---
 
@@ -39,6 +46,8 @@ Este projeto foi desenvolvido com o intuito de dar um novo propósito ao meu pri
 
   - [Etcher](https://etcher.balena.io/)
   - [Download Batocera](https://batocera.org/download)
+
+![Instalador Etcher](img/etcher.gif)
 
 - **Configuração Inicial**
 
@@ -52,7 +61,7 @@ Este projeto foi desenvolvido com o intuito de dar um novo propósito ao meu pri
 
 - **Arquivos de BIOS**
 
-  - Vide `PACK BIOS.zip`
+  - Vide [Pack BIOS](https://drive.google.com/file/d/1a3KXU5rptyQXOlibsJxuoVryVIDbopnm/view?usp=sharing)
   - Extraia em outro sistema operacional e substitua os arquivos na pasta `share` do Batocera
 
 - **ROMs**
@@ -89,8 +98,20 @@ Este projeto foi desenvolvido com o intuito de dar um novo propósito ao meu pri
 
 ---
 
+## 💡 Recomendações
+
+É de suma importância um bom sistema de arrefecimento da máquina. No arcade há dois espaços para fans de 40mm e um para fan de 80mm.  
+Recomendo também o uso de um cabo de vídeo do modelo flat para ocupar menos espaço na traseira do arcade.
+
+O projeto pode ser adaptado para utilizar um hardware mais forte. Vale olhar os computadores da linha **ThinkCentre**, pois as dimensões do PC se encaixam no gabinete do arcade.
+
+---
+
 ## 📌 Considerações Finais
 
-O Arc-E350 é mais que uma estação de jogos retrô: é um projeto pessoal que ressignifica um equipamento antigo, promovendo sustentabilidade, criatividade e diversão. Com o avanço das plataformas open-source, criar sua própria central de emulação nunca foi tão acessível.
+O **Arc-E350** é mais que uma estação de jogos retrô: é um projeto pessoal que ressignifica um equipamento antigo, promovendo sustentabilidade, criatividade e diversão. Com o avanço das plataformas open-source, criar sua própria central de emulação nunca foi tão acessível.
+
+Agradeço à equipe do **Batocera** por desenvolver um sistema tão completo no quesito retro gaming.  
+Quaisquer alterações nesse projeto são bem-vindas! Só peço que me deem os devidos créditos ao utilizarem o gabinete do arcade.
 
 ---
