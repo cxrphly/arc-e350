@@ -1,18 +1,19 @@
 # Arc-E350
 
 Este projeto foi desenvolvido com o intuito de dar um novo propósito ao meu primeiro computador, transformando-o em uma central de emulação. Considerando a dificuldade de acesso a consoles antigos e suas mídias físicas, o Arc-E350 surge como uma alternativa acessível, prática e nostálgica para reviver clássicos dos videogames. Este documento serve como uma apresentação e tutorial do projeto.
-(img/arcade.jpg)
+
+![Arcade montado](img/arcade.jpg)
 
 ---
 
 ## 📑 Sumário
 
-- [Hardware Utilizado](#hardware-utilizado)
+- [Hardware Utilizado](#💻-hardware-utilizado)
   - [H-AFTI uDTX-1 (computador de baixo consumo)](#h-afti-udtx-1-computador-de-baixo-consumo)
   - [PCB800099-V9 (Controlador LVDS / TTL)](#pcb800099-v9-controlador-lvds--ttl)
-- [Sistema Operacional e Configurações Básicas](#sistema-operacional-e-configurações-básicas)
+- [Sistema Operacional e Configurações Básicas](#🖥️-sistema-operacional-e-configurações-básicas)
   - [Batocera](#batocera)
-- [Construção do Arcade](#construção-do-arcade)
+- [Construção do Arcade](#🕹️-construção-do-arcade)
 - [Recomendações](#💡-recomendações)
 - [Considerações Finais](#📌-considerações-finais)
 
@@ -44,7 +45,6 @@ Este projeto foi desenvolvido com o intuito de dar um novo propósito ao meu pri
 ### Batocera
 
 - **Instalação**
-
   - [Etcher](https://etcher.balena.io/)
   - [Download Batocera](https://batocera.org/download)
 
@@ -92,20 +92,28 @@ Este projeto foi desenvolvido com o intuito de dar um novo propósito ao meu pri
 - **Arquivos**
 
   - `.cdr` – Arquivos para corte a laser (CorelDRAW)
-  - CorelDRAW web - Acesso de 16 dias Grátis.
+  - CorelDRAW web - Acesso de 16 dias grátis
 
 - **Visualização e Montagem**
+
   - [Projeto no TinkerCAD](https://www.tinkercad.com/things/cSyrsDrk72K-arce350?sharecode=hKJ7t1MmlwgPOkPFgt--RSSKy72yJf3bz6QZY0FlY2w)
-    Recomendo usar uma parafusadeira com uma broca da medida dos seus parafusos para os componentes eletronicos e super cola para juntar as partes de MDF, pois devido seu tempo de secagem é possivel manipular o gabinete de forma satisfatoria. Adendo, é melhor nao colar a tampa superior da controladora de video e nem a tampa frontal pois essa duas dão acesso a retirada da placa mae e do display.
+
+  Recomendo usar uma parafusadeira com uma broca compatível com os parafusos dos componentes eletrônicos.  
+  Para unir as partes de MDF, utilize cola instantânea (super cola), pois o tempo de secagem permite manipular o gabinete com facilidade.
+
+  **Obs.:** É melhor não colar a tampa superior da controladora de vídeo nem a tampa frontal, pois essas peças dão acesso direto à placa-mãe e ao display, facilitando a manutenção.
 
 ---
 
 ## 💡 Recomendações
 
-É de suma importância um bom sistema de arrefecimento da máquina. No arcade há dois espaços para fans de 40mm e um para fan de 80mm.  
-Recomendo também o uso de um cabo de vídeo do modelo flat para ocupar menos espaço na traseira do arcade.
+É de suma importância um bom sistema de arrefecimento da máquina.  
+No arcade há dois espaços para fans de 40mm e um para fan de 80mm.
 
-O projeto pode ser adaptado para utilizar um hardware mais forte. Vale olhar os computadores da linha **ThinkCentre**, pois as dimensões do PC se encaixam no gabinete do arcade.
+Recomendo também o uso de um cabo de vídeo do modelo flat, para ocupar menos espaço na traseira do arcade.
+
+O projeto pode ser adaptado para utilizar um hardware mais forte.  
+Vale olhar os computadores da linha **ThinkCentre**, pois as dimensões do PC se encaixam no gabinete do arcade.
 
 ---
 
@@ -113,7 +121,8 @@ O projeto pode ser adaptado para utilizar um hardware mais forte. Vale olhar os 
 
 O **Arc-E350** é mais que uma estação de jogos retrô: é um projeto pessoal que ressignifica um equipamento antigo, promovendo sustentabilidade, criatividade e diversão. Com o avanço das plataformas open-source, criar sua própria central de emulação nunca foi tão acessível.
 
-O Arcade pode ser usado como monitor secundario, por exemplo eu uso para jogar com o meu PlayStation 2 ja que o hardware não suporta jogos mais pesados que PSP.
+O arcade também pode ser utilizado como monitor secundário.  
+Por exemplo, eu uso para jogar com o meu PlayStation 2, já que o hardware não suporta jogos mais pesados que PSP.
 
 Agradeço à equipe do **Batocera** por desenvolver um sistema tão completo no quesito retro gaming.  
 Quaisquer alterações nesse projeto são bem-vindas! Só peço que me deem os devidos créditos ao utilizarem o gabinete do arcade.
