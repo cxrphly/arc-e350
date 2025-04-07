@@ -1,6 +1,7 @@
 # Arc-E350
 
 Este projeto foi desenvolvido com o intuito de dar um novo propósito ao meu primeiro computador, transformando-o em uma central de emulação. Considerando a dificuldade de acesso a consoles antigos e suas mídias físicas, o Arc-E350 surge como uma alternativa acessível, prática e nostálgica para reviver clássicos dos videogames. Este documento serve como uma apresentação e tutorial do projeto.
+(img/arcade.jpg)
 
 ---
 
@@ -95,6 +96,7 @@ Este projeto foi desenvolvido com o intuito de dar um novo propósito ao meu pri
 
 - **Visualização e Montagem**
   - [Projeto no TinkerCAD](https://www.tinkercad.com/things/cSyrsDrk72K-arce350?sharecode=hKJ7t1MmlwgPOkPFgt--RSSKy72yJf3bz6QZY0FlY2w)
+    Recomendo usar uma parafusadeira com uma broca da medida dos seus parafusos para os componentes eletronicos e super cola para juntar as partes de MDF, pois devido seu tempo de secagem é possivel manipular o gabinete de forma satisfatoria. Adendo, é melhor nao colar a tampa superior da controladora de video e nem a tampa frontal pois essa duas dão acesso a retirada da placa mae e do display.
 
 ---
 
@@ -110,6 +112,8 @@ O projeto pode ser adaptado para utilizar um hardware mais forte. Vale olhar os 
 ## 📌 Considerações Finais
 
 O **Arc-E350** é mais que uma estação de jogos retrô: é um projeto pessoal que ressignifica um equipamento antigo, promovendo sustentabilidade, criatividade e diversão. Com o avanço das plataformas open-source, criar sua própria central de emulação nunca foi tão acessível.
+
+O Arcade pode ser usado como monitor secundario, por exemplo eu uso para jogar com o meu PlayStation 2 ja que o hardware não suporta jogos mais pesados que PSP.
 
 Agradeço à equipe do **Batocera** por desenvolver um sistema tão completo no quesito retro gaming.  
 Quaisquer alterações nesse projeto são bem-vindas! Só peço que me deem os devidos créditos ao utilizarem o gabinete do arcade.
